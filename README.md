@@ -1,11 +1,11 @@
 # kbot
-devops app from scratch
+## devops app from scratch
 
-build
+### build
 go build -ldflags "-X="github.com/VadymChutur/kbot.git/cmd.appVersion=x.x.x
 
-start
+### start
 /start hello
 
-bot
+### bot
 vadymchutur_bot
